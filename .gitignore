@@ -59,6 +59,10 @@ target/
 # IDE
 .idea/
 
-# External Libraries 
+# External Libraries
 wger/core/static/bower_components
 node_modules
+
+# pyenv etc related
+.python-version
+venv-wger/
